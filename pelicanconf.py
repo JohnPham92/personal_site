@@ -8,7 +8,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = './pelicanyan'
+THEME = 'pelicanyan'
 
 FAVICON = '/content/images/favicon.ico'
 
