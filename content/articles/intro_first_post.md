@@ -1,6 +1,6 @@
 Title: Blog Updates
 Date: 2022-05-15
-Category: 
+Category: Personal
 Tags: python, pelican
 Slug: intro-post
 Authors: John Pham
