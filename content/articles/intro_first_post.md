@@ -13,6 +13,6 @@ to AWS, but then remembered I had a Digital Ocean droplet serving the 5 annual v
 That original blog was made 8 years ago when I was still learning how to program. I ended up with a bloated Django site
 by mostly copy and pasting code from YouTube. And I wrote custom HTML/CSS as proof of myspace skills. Now <s> with less
 to prove </s> with an appreciation for simplicity, I'm starting with a static site. I also wanted to take this
-opportunity to start the new content. Hoping to win some art to have something to talk about.
+opportunity to start with new content. Hoping to win some art to have something to talk about.
 
 Cheers to kicking off this new edition!
