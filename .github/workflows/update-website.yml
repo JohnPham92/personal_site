@@ -14,4 +14,4 @@ jobs:
           username: ${{ secrets.USERNAME}}
           host: ${{ secrets.HOST }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          script: 'cd ../home/personal_site/ && source venv/bin/activate && make publish'
+          script: 'cd ../home/personal_site/ && git pull && source venv/bin/activate && make publish'
