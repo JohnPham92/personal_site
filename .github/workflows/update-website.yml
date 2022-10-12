@@ -1,12 +1,11 @@
 name: Updated Static Website
 
 on:
-  pull_request:
+  push:
     branches: [ master ]
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
+  deployment:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to johnpham.me
