@@ -15,4 +15,6 @@ by mostly copy and pasting code from YouTube. And I wrote custom HTML/CSS as pro
 to prove </s> with an appreciation for simplicity, I'm starting with a static site. I also wanted to take this
 opportunity to start with new content. Hoping to win some art to have something to talk about.
 
+TEST
+
 Cheers to kicking off this new edition!
