@@ -5,12 +5,13 @@ on:
     branches: [ master ]
 
 jobs:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Deploy to johnpham.me
-      uses: appleboy/ssh-action@master
-      with:
-        username: ${{ secrets.USERNAME}}
-        host: ${{ secrets.HOST }}
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
-        script: 'cd ../home/personal_site/ && source venv/bin/activate && make publish'
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to johnpham.me
+        uses: appleboy/ssh-action@master
+        with:
+          username: ${{ secrets.USERNAME}}
+          host: ${{ secrets.HOST }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: 'cd ../home/personal_site/ && source venv/bin/activate && make publish'
