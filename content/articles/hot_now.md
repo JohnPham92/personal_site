@@ -17,7 +17,8 @@ Krispy Kreme. When I heard that Krispy Kreme was giving away free donuts when th
 The donut lover that I am immediately realized that I could create my own alert that would check to see when the Hot Now sign would turn on at the Flatiron location.
 Krispy Kreme's store locator website has indicator that shows when the Hot Now sign is turned on. So I created a service that would run every 8 mins and send me a text message saying "HOT NOW!".
 To my dismay, I had received no salacious text messages suggestive of a Hot encounter -- it turns out that the Flatiron location never turned on their light even though they claim it happens twice a day.
-<img src="../images/how_now.PNG" alt="Hot Now Claim" style="width: 90%; height: auto;">
+
+<img src="../images/hot_now.PNG" alt="Hot Now Claim" style="width: 90%; height: auto;">
 
 I would know because I logged every attempt to check (except when the VPS went offline for a month when it ran out of memory oops)
 
