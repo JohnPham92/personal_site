@@ -9,7 +9,7 @@ Summary: Have I met the first marker for BQ-ing?
 ## NYC Half Marathon
 
 ### Training
-I started my training for the NYC Half Marathon starting early December, giving myself about a 14 week block. I took about two and a half weeks easy after the Staten Island Half to let my plantar issues subside.
+I started my training for the NYC Half Marathon in early December, giving myself about a 14 week block. I took about two and a half weeks easy after the Staten Island Half to let my plantar issues subside.
 I decided to go with [Hansons Advanced Half Marathon]([https://defy.org/hacks/calendarhack/?d=2023-03-19&p=hansons_adv_half&s=1&u=mi]) as my training. I liked that it had a good variety for running 6 days a week including 1 Track Rep workout, 1 Tempo, and 1 Long Run. It peaks at about 55 mi/week. The good thing about the plan is that you don't need to worry
 about going too fast on recovery days because you'll need them. I found the 3x2mi workouts at 10K were probably the hardest to pace out correctly. The long tempos (7-8mi) at slightly faster than target HMP (6:30) felt like they translated best to the race. I was always concerned with my cutdown long runs because I never got quite fast enough with them, but I always did them late in my long runs to train running on tired legs.
 
