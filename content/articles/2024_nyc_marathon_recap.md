@@ -18,7 +18,7 @@ I executed  my race plan as well as I had hoped. The course is no joke, particul
 It was a party the entire time, and it's so inspiring to be out there with thousands of others. The fans make the New York Marathon.
 I'll never pass up the opportunity to run this race.
 
-<img src="../images/NYC_run.HEIC" alt="NYC run" style="width: 90%; height: auto;">
-<img src="../images/NYC_finish.HEIC" alt="NYC finish" style="width: 90%; height: auto;">
+<img src="../images/NYC_run.jpeg" alt="NYC run" style="width: 90%; height: auto;">
+<img src="../images/NYC_finish.jpeg" alt="NYC finish" style="width: 90%; height: auto;">
 
 
